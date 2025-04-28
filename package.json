@@ -1,14 +1,11 @@
 {
-  "name": "framework",
+  "name": "pharmacy-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^2.0.0"
   }
 }
